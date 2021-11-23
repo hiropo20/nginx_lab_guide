@@ -77,6 +77,8 @@ Cloud Docsの書式で、すでにUDF template内のLab Guideから参照でき�
 
 ### NGINX Plus Kubernets Ingress Controller `作成予定`
 
+参考：https://thinkit.co.jp/article/18771
+
 |項目||
 | - | - | 
 |主な内容|NGINX Ingress Controllerのデプロイ、VS/VSR、OIDC、NGINX App Protect|

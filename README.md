@@ -11,7 +11,7 @@ nginx_lab_guide
   - [NGINX Plus Container NGINX App Protect](#nginx-plus-container-nginx-app-protect)
   - [NGINX Plus Container NGINX App Protect & AWAF](#nginx-plus-container-nginx-app-protect--awaf)
   - [NGINX Controller Application Security (ADC / AppSec)](#nginx-controller-application-security-adc--appsec)
-  - [NGINX Plus Kubernets Ingress Controller `作成予定`](#nginx-plus-kubernets-ingress-controller-作成予定)
+  - [NGINX Plus Kubernets Ingress Controller](#nginx-plus-kubernets-ingress-controller)
   - [NGINX Plus Service Mesh `作成予定`](#nginx-plus-service-mesh-作成予定)
 
 # 目的
@@ -79,15 +79,15 @@ Cloud Docsの書式で、すでにUDF template内のLab Guideから参照でき�
 |UDF Template| NGINX Controller: Application Delivery and Security (Lab)_JP  |
 
 
-## NGINX Plus Kubernets Ingress Controller `作成予定`
+## NGINX Plus Kubernets Ingress Controller 
 
 参考：https://thinkit.co.jp/article/18771
 
 |項目||
 | - | - | 
 |主な内容|NGINX Ingress Controllerのデプロイ、VS/VSR、OIDC、NGINX App Protect|
-|Guide| - |
-|UDF Template| - |
+|Guide| https://f5j-nginx-ingress-controller-lab1.readthedocs.io/en/v2.1.0-r3/index.html |
+|UDF Template| NGINX: Kubernetes_Lab_JP |
 
 ## NGINX Plus Service Mesh `作成予定`
 

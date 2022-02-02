@@ -75,7 +75,7 @@ Cloud Docsの書式で、すでにUDF template内のLab Guideから参照でき�
 |項目||
 | - | - | 
 |主な内容|NGINX Controller ADCの基本、各種設定オブジェクトの解説、ADC設定、WAF設定、および各種モニター機能の確認|
-|Guide| https://f5j-nginx-controller-lab.readthedocs.io/en/v3.20.0-r1/ |
+|Guide| https://f5j-nginx-controller-lab.readthedocs.io/en/latest/index.html |
 |UDF Template| NGINX Controller: Application Delivery and Security (Lab)_JP  |
 
 
